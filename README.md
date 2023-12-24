@@ -16,3 +16,29 @@ Mobile
 
 ![image](https://github.com/TusharKesarwani/Front-End-Projects/assets/100512046/7f912b8d-6248-456a-a51e-dc718f89f8b2)
 
+## Getting Started
+Follow these steps to get the project up and running on your local machine:
+
+### Clone the repository:
+
+```bash
+git clone https://github.com/Atanu0341/Tailwind-Clone.git
+```
+### Navigate to the project folder:
+
+```bash
+cd Tailwind-Clone
+```
+### Install dependencies:
+
+Make sure you have Node.js installed on your machine. Then run:
+
+```bash
+npm install
+```
+### Start the development server:
+
+```bash
+npm run start
+```
+This will start the development server, and you can access the application in your browser at http://localhost:3000.
